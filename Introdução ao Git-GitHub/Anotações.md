@@ -14,4 +14,4 @@ Além de ser distribuído, o Git foi projetado com desempenho, segurança e flex
  - git init
  - git clone
  - git config
- - git alias
+ - git alias.
